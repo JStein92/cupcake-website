@@ -1,0 +1,12 @@
+.flashy {
+  color:red;
+  font-style: italic;
+}
+
+.best{
+  margin: auto;
+     display: block;
+     width: 50%;
+     border: 3px dotted red;
+     padding: 10px;
+}
